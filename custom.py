@@ -5,7 +5,7 @@ import time
 import random
 pygame.font.init()
 
-# import Image
+import Image
 
 # Window
 width, height = 1000, 600
